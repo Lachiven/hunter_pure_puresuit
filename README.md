@@ -1,3 +1,4 @@
+hunter小车适配纯追逐算法
 # hunter_pure_puresuit
 ```
 cd catkin_hunter && cd src
